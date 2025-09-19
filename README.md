@@ -100,6 +100,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Links
 
-- [Website](https://zscore.com)
-- [Documentation](https://docs.zscore.com)
-- [GitHub Repository](https://github.com/zerufinance/myScore-interface)
+- [Website](https://myzscore.ai)
+- [Documentation](https://docs.myzscore.ai)
